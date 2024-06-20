@@ -6,6 +6,7 @@ On 1 June 2024, I applied for the four to six months intensive data science boot
 - Intro to Data Science
 - Building a Second Brain
 - Spreadsheets
+    - Project - ID Card Parser
 - Databases SQL
 - R Programming Foundation
 - Data Transformation
