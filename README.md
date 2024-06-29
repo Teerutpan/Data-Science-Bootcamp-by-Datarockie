@@ -13,6 +13,7 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
     - Project - Convert Thai to English date
     - Project - ID Card Parser using regular expression
 - Databases SQL
+    - Project - Create restaurant database using SQL [Click](https://replit.com/@teerutpan/homeworksqldsb10essan#main.sql)
 - R Programming Foundation
 - Data Transformation
 - Data Visualization
