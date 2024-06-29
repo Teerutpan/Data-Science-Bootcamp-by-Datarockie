@@ -13,7 +13,7 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
     - Project - Convert Thai to English date
     - Project - ID Card Parser using regular expression
 - Databases SQL
-    - Project - Create restaurant database using SQL [Click](https://replit.com/@teerutpan/homeworksqldsb10essan#main.sql) ![Untitled](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/assets/152750283/900fcb69-496e-42c0-a144-15b0a8f10843)
+    - Project - Create restaurant database using SQL ( [SQL coding](https://replit.com/@teerutpan/homeworksqldsb10essan#main.sql)  and  [DBdiagram](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/assets/152750283/900fcb69-496e-42c0-a144-15b0a8f10843) )
 
 - R Programming Foundation
 - Data Transformation
