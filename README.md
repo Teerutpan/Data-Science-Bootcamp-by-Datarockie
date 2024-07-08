@@ -5,7 +5,7 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
 ### The content of Intensive Data Science Bootcamp includes the following topics below
 - Intro to Data Science
 - Building a Second Brain
-- Spreadsheets [Click to find all projects below](https://docs.google.com/spreadsheets/d/1670CpeqEGAJ4t_ECbaki4bh-8GbPUcVpy9yAd2e6eW4/edit?gid=151074853#gid=151074853)
+- Spreadsheets [Click to find all google sheet projects below](https://docs.google.com/spreadsheets/d/1670CpeqEGAJ4t_ECbaki4bh-8GbPUcVpy9yAd2e6eW4/edit?gid=151074853#gid=151074853)
     - Project - Filter employee's gender and performance and also sort by salary
     - Project - Color highlight on employee data using conditional formatting
     - Project - Querying and summarizing employee data
@@ -16,6 +16,9 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
     - Project - Create restaurant database using SQL ( [SQL coding](https://replit.com/@teerutpan/homeworksqldsb10essan#main.sql)  and  [DBdiagram](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/assets/152750283/900fcb69-496e-42c0-a144-15b0a8f10843) )
 
 - R Programming Foundation
+    - Project - Create 'Pao Ying Chub' game [R coding](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/blob/main/pao_ying_chup_game.R)
+    - Project - Chatbot to order pizza  [R coding](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/blob/main/chatbot_order_pizza.R)
+    - Project - Create restaurant database using R studio  [R coding](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/blob/main/create_restaurant_database.R)
 - Data Transformation
 - Data Visualization
 - Statistics for Data Analyst
