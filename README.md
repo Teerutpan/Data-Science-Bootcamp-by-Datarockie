@@ -27,6 +27,9 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
        - Using R studio to create a restaurant database, start from install and load library of used packages, using dbConnect to create database and open connection, create table from data.frame, using dbWriteTable to write table into the database, using dbListTables to check table in the database, using dbListFields to check column name in the table, using  dbGetQuery to get data from the table and using dbDisconnect to close the connection.
 
 - Data Transformation
+    - Project - Data Transformation by "dplyr"  [R coding](https://github.com/Teerutpan/Data-Science-Bootcamp-by-Datarockie/blob/main/data_transformation_nycflights13.R)
+       - Using core functions in dplyr to make data manipulation to find some inside in dataset "nycflights13" in R studio packages.
+         
 - Data Visualization
 - Statistics for Data Analyst
 - Essential Economics
