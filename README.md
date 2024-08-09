@@ -6,6 +6,7 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
 - Intro to Data Science
 - Building a Second Brain
 - Spreadsheets [Click to find all google sheet projects below](https://docs.google.com/spreadsheets/d/1670CpeqEGAJ4t_ECbaki4bh-8GbPUcVpy9yAd2e6eW4/edit?gid=151074853#gid=151074853)
+  - Using Google sheets tools such as function, formula, conditional formatting, query, and regular expression for data management, analysis and find insight from data. 
     - Project - Filter employee's gender and performance and also sort by salary
     - Project - Color highlight on employee data using conditional formatting
     - Project - Querying and summarizing employee data
