@@ -32,6 +32,9 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
        - Using core functions in dplyr to make data manipulation to find some inside in dataset "nycflights13" in R studio packages.
          
 - Data Visualization
+    - Project - Create Data Visualization using ggplot2 in R [R Markdown]()
+       - Creating R Markdown consists of 5 data visualization charts created by ggplot2. First, I load the library(tidyverse), and prepare data by using sample data of diamonds in R packages. Create a histogram to find the distribution of diamonds by price. Create a bar chart to find the total number of diamond’s quality of cut on each diamond’s clarity. Create a scatter plot to find diamonds’ relation between carat and price divided by quality of cut. Create a box plot to find the distribution of diamonds' cut quality across carat and create a heat map to find between carat and price. After creating the initial visualization charts, we found it easier to understand our data, and were able to find relationships and derive insights from the data.
+
 - Statistics for Data Analyst
 - Essential Economics
 - Website Building with Wordpress
