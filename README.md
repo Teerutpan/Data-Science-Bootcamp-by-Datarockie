@@ -44,6 +44,8 @@ On 1 June 2024, I applied for the six months intensive data science bootcamp in 
       - Using Looker Studio to create three dashboards consists of overall sales, product performance, and customer detail by using "store.csv" dataset. First, connect the data from store.csv in google sheet. Second, create an impactful report and dashboard and finally, share these reports and dashboards with stakeholders. The key concept of dashboard tools like Looker Studio, Tableau and Power BI is the same: connect, create and share. After you already learn one tool you can apply the method to another tool.
     
 - Essential Machine Learning
+    - In this projects, I predict mile per gallon of mtcars dataset using packages “caret” and “mlbench” in R to train and evaluate the data. by comparing between linear regression model and k-nearest neighbors (KNN) and predict diabetes by trains a logistic regression model using Pima Indians Diabetes dataset. Cross-validation is used to evaluate the model’s performance. Please find the detail of all three projects as this link [Machine Learning Projects](https://thedatarookie.wordpress.com/machine-learning/)
+      
 - Essential Marketing & Business
 - Python Programming Foundation
 - Essential Python for Data Analyst
